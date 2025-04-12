@@ -6,7 +6,8 @@ Projet du cours "Programmation avancée" du cursus eco-maths à TSE
 #lien du site : https://www.tse-fr.eu/fr/licence-3-economie-et-mathematiques
 
 
-Le projet était à faire en duo, j'étais accompagné de Quentin Cagnac
+Le projet était à faire en duo, j'étais accompagné de Quentin Cagnac.
+
 Le but du projet était d'utiliser les librairy numpy et pandas sur le langage de programmation python.
 Pour se faire, nous avons utiliser la base de donnée pokemon. Nous devions trouver 5 moyens de faire des recherches sur cette base de données (par exemple selectionner les pokemons avec 100hp ou plus).
 Ensuite, nous devions créer une interface graphique pour pouvoir utiliser ces critères là.
